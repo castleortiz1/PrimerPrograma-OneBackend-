@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f55e4282-6ed9-4a5b-ad0e-c0b6897c93fb" name="Changes" comment="primer commit de este proyecto">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f55e4282-6ed9-4a5b-ad0e-c0b6897c93fb" name="Changes" comment="experimento de este proyecto" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +45,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -67,7 +66,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727402377108</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="experimento de este proyecto">
+      <option name="closed" value="true" />
+      <created>1727402574925</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727402574925</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primer commit de este proyecto" />
-    <option name="LAST_COMMIT_MESSAGE" value="primer commit de este proyecto" />
+    <MESSAGE value="experimento de este proyecto" />
+    <option name="LAST_COMMIT_MESSAGE" value="experimento de este proyecto" />
   </component>
 </project>
